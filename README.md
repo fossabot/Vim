@@ -52,6 +52,8 @@ VSCodeVim is a Vim emulator for [Visual Studio Code](https://code.visualstudio.c
 </details>
 
 ## 💾 Installation
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2FVim.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2FVim?ref=badge_shield)
+
 
 VSCodeVim can be installed via the VS Code [Marketplace](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim).
 
@@ -877,3 +879,7 @@ This project is maintained by a group of awesome [people](https://github.com/VSC
 - Thanks to @sectioneight for implementing text objects!
 - Special props to [Kevin Coleman](http://kevincoleman.io), who created our awesome logo!
 - Shoutout to @chillee aka Horace He for his contributions and hard work.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2FVim.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2FVim?ref=badge_large)
